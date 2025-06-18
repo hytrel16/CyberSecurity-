@@ -33,11 +33,17 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 | Order | Course Name                                       | Platform   | Purpose                              | Certificate                |
 | ----- | ------------------------------------------------- | ---------- | ------------------------------------ | -------------------------- |
-| 7     | Ethical Hacking Essentials (EHE)                  | Coursera   | Basics of hacking, vulnerabilities   | ✅ Free via Financial Aid  |
+| 7     | Ethical Hacking Essentials (EHE) & Network Defense|            | Basics of hacking, vulnerabilities & | ✅ Free via Financial Aid  |
+|       | Essentails (NSE)                                  | Coursera   | Defense techniques, detection,       |                             |
+|       |                                                   |            | response                             |                             |
+|       |                                                   |            |                                      |                             |   
 | 8     | Ethical Hacker – Skills for All                   | Cisco      | Cisco’s hands-on ethical hacking     | ✅ Free                    |
-| 9     | The Only Course You Need to Learn Ethical Hacking | Udemy      | Comprehensive tools, practice        | ❌ Paid (Often discounted) |
-| 10    | Ethical Hacking, Python Hacking, Metasploit+      | Udemy      | CEH-style topics + hands-on labs     | ❌ Paid                    |
-| 11    | Cybersecurity Attack & Defense Fundamentals       | EC-Council | Offensive and defensive tactics      | ✅ Free (Intro)            |
+| 9     | Complete Ethical Hacking Masterclass: Go from     |            |                                      |                             |
+|       |  Zero to Hero                                     | Udemy      | Comprehensive tools, practice        | ❌ Paid (Often discounted) |
+| 10    | Real Ethical Hacking in 46 Hours: Certificated    |            |                                      |                             |
+|       | CSEH+CEH PRO                                      | Udemy      | CEH-style topics + hands-on labs     | ❌ Paid                    |
+|       |                                                   |            |                                      |                             |
+| 11    | Endpoint Security                                 | Cisco      | Device-level hardening & protections | ✅ Free                    |
 | 12    | Python for Cybersecurity Specialization           | Coursera   | Offensive scripting in Python        | ✅ Free via Financial Aid  |
 | 13    | Foundations of Physical Pentesting                | Cisco      | Social engineering & on-site threats | ✅ Free                    |
 
@@ -121,3 +127,18 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 | **Total Time**            | \~6–8 months (Full Path) |
 
 ---
+
+## 🔗Course Links:
+1. Linux Unhatched: https://www.netacad.com/courses/linux-unhatched?courseLang=en-US
+2. Linux Essentials: https://www.netacad.com/courses/linux-essentials?courseLang=en-US
+3. JavaScript Essentials 1: https://www.netacad.com/courses/javascript-essentials-1?courseLang=en-US
+4. NSE 1–3 (Network Security Associate): https://www.fortinet.com/training/cybersecurity-professionals
+5. Free Network Defense: https://www.netacad.com/courses/network-defense?courseLang=en-US
+6. Cyber Threat Management Course: https://www.netacad.com/courses/cyber-threat-management?courseLang=en-US
+7.1 Ethical Hacking Essentials (EHE): https://www.coursera.org/learn/ethical-hacking-essentials-ehe?specialization=cybersecurity-attack-and-defense
+7.2 Network Hacking Essentials (NHE): https://www.coursera.org/learn/network-defense-essentials-nde?specialization=cybersecurity-attack-and-defense
+8. Ethical Hacker – Skills for All: https://www.netacad.com/courses/ethical-hacker?courseLang=en-US
+9. Complete Ethical Hacking Masterclass: Go from Zero to Hero (Udemy): https://www.udemy.com/course/top-course/?kw=Complete+Ethical+Hacking+Masterclass%3A+Go+from+Zero+to+Hero&src=sac
+10. Real Ethical Hacking in 46 Hours: Certificated CSEH+CEH PRO: https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=ST18MT170625G1
+11. Endpoint Security: https://www.netacad.com/courses/endpoint-security?courseLang=en-US
+13. Foundations of Physical Pentesting: https://app.cybrary.it/browse/course/foundations-of-physical-pentesting?queryID=undefined&objectID=71727
