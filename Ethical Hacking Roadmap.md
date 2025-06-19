@@ -34,7 +34,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 | Order | Course Name                                                 | Platform   | Purpose                                 | Certificate                |
 | ----- | ----------------------------------------------------------- | ---------- | --------------------------------------- | -------------------------- |
 | 7     | Ethical Hacking Essentials (EHE)                            | Coursera   | Basics of hacking, vulnerabilities &    | ✅ Free via Financial Aid  |
-| 8     | Network Defense Essetials (NDE)                             | Coursera   | Defense techniques, detection, response |                             |                
+| 8     | Network Defense Essetials (NDE)                             | Coursera   | Defense techniques, detection, response | ✅ Free via Financial Aid  |                
 | 9     | Ethical Hacker – Skills for All                             | Cisco      | Cisco’s hands-on ethical hacking        | ✅ Free                    |
 | 10    | Complete Ethical Hacking Masterclass: Go from Zero to Hero  | Udemy      | Comprehensive tools, practice           | ❌ Paid (Often discounted) |                             
 | 11    | Real Ethical Hacking in 46 Hours: Certificated CSEH+CEH PRO | Udemy      | CEH-style topics + hands-on labs        | ❌ Paid                    |
