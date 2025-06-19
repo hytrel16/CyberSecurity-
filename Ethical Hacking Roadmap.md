@@ -31,21 +31,18 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 > Focus: Learn hacking techniques, tools, and ethical practices.
 
-| Order | Course Name                                       | Platform   | Purpose                              | Certificate                |
-| ----- | ------------------------------------------------- | ---------- | ------------------------------------ | -------------------------- |
-| 7     | Ethical Hacking Essentials (EHE) & Network Defense| Coursera   | Basics of hacking, vulnerabilities & | ✅ Free via Financial Aid  |
-|       | Essentails (NSE)                                  |            | Defense techniques, detection,       |                             |
-|       |                                                   |            | response                             |                             |
-|       |                                                   |            |                                      |                             |   
-| 8     | Ethical Hacker – Skills for All                   | Cisco      | Cisco’s hands-on ethical hacking     | ✅ Free                    |
-| 9     | Complete Ethical Hacking Masterclass: Go from     |            |                                      |                             |
-|       |  Zero to Hero                                     | Udemy      | Comprehensive tools, practice        | ❌ Paid (Often discounted) |
-| 10    | Real Ethical Hacking in 46 Hours: Certificated    |            |                                      |                             |
-|       | CSEH+CEH PRO                                      | Udemy      | CEH-style topics + hands-on labs     | ❌ Paid                    |
-|       |                                                   |            |                                      |                             |
-| 11    | Endpoint Security                                 | Cisco      | Device-level hardening & protections | ✅ Free                    |
-| 12    | Python for Cybersecurity Specialization           | Coursera   | Offensive scripting in Python        | ✅ Free via Financial Aid  |
-| 13    | Foundations of Physical Pentesting                | Cisco      | Social engineering & on-site threats | ✅ Free                    |
+| Order | Course Name                                       | Platform   | Purpose                                 | Certificate                |
+| ----- | ------------------------------------------------- | ---------- | --------------------------------------- | -------------------------- |
+| 7     | Ethical Hacking Essentials (EHE)                  | Coursera   | Basics of hacking, vulnerabilities &    | ✅ Free via Financial Aid  |
+| 8     | Network Defense Essetials (NDE)                   | Coursera   | Defense techniques, detection, response |                             |                
+| 9     | Ethical Hacker – Skills for All                   | Cisco      | Cisco’s hands-on ethical hacking        | ✅ Free                    |
+| 10    | Complete Ethical Hacking Masterclass: Go from     |            |                                         |                             |
+|       |  Zero to Hero                                     | Udemy      | Comprehensive tools, practice           | ❌ Paid (Often discounted) |
+| 11    | Real Ethical Hacking in 46 Hours: Certificated    |            |                                         |                             |
+|       | CSEH+CEH PRO                                      | Udemy      | CEH-style topics + hands-on labs        | ❌ Paid                    |
+| 12    | Endpoint Security                                 | Cisco      | Device-level hardening & protections    | ✅ Free                    |
+| 13    | Python for Cybersecurity Specialization           | Coursera   | Offensive scripting in Python           | ✅ Free via Financial Aid  |
+| 14    | Foundations of Physical Pentesting                | Cisco      | Social engineering & on-site threats    | ✅ Free                    |
 
 ---
 
@@ -53,13 +50,13 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 > Focus: Web app, API, and code-level testing for bounty hunting.
 
-| Order | Course Name                            | Platform          | Purpose                                     | Certificate              |
-| ----- | -------------------------------------- | ----------------- | ------------------------------------------- | ------------------------ |
-| 14    | Secure Coding Practices Specialization | Coursera          | Learn how to find dev-level vulnerabilities | ✅ Free via Financial Aid |
-| 15    | API Penetration Testing                | APISEC University | Real-world bounty focus (API)               | ✅ Free                   |
-| 16    | JavaScript Essentials 2                | Cisco             | DOM, JS flaws (XSS, JS obfuscation)         | ✅ Free                   |
-| 17    | Active Directory                       | Cursa             | AD testing, common in real-world networks   | ✅ Free                   |
-| 18    | IBM Ethical Hacking Open Source Tools  | IBM               | Broad offensive tooling & Linux             | ✅ Free Certificate       |
+| Order | Course Name                            | Platform          | Purpose                                     | Certificate               |
+| ----- | -------------------------------------- | ----------------- | ------------------------------------------- | --------------------------|
+| 15    | Secure Coding Practices Specialization | Coursera          | Learn how to find dev-level vulnerabilities | ✅ Free via Financial Aid |
+| 16    | API Penetration Testing                | APISEC University | Real-world bounty focus (API)               | ✅ Free                   |
+| 17    | JavaScript Essentials 2                | Cisco             | DOM, JS flaws (XSS, JS obfuscation)         | ✅ Free                   |
+| 18    | Active Directory                       | Cursa             | AD testing, common in real-world networks   | ✅ Free                   |
+| 19    | IBM Ethical Hacking Open Source Tools  | IBM               | Broad offensive tooling & Linux             | ✅ Free Certificate       |
 
 ---
 
@@ -69,9 +66,9 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 | Order | Course Name                        | Platform | Purpose                              | Certificate              |
 | ----- | ---------------------------------- | -------- | ------------------------------------ | ------------------------ |
-| 19    | Digital Forensics Essentials (DFE) | Coursera | Forensics, evidence handling         | ✅ Free via Financial Aid |
-| 20    | Cybercrime                         | Coursera | Legal context, laws, regulations     | ✅ Free via Financial Aid |
-| 21    | Intro to Malware Analysis and RE   | Cybrary  | Malware detection & reversing basics | ❌ Paid (audit free)      |
+| 20    | Digital Forensics Essentials (DFE) | Coursera | Forensics, evidence handling         | ✅ Free via Financial Aid |
+| 21    | Cybercrime                         | Coursera | Legal context, laws, regulations     | ✅ Free via Financial Aid |
+| 22    | Intro to Malware Analysis and RE   | Cybrary  | Malware detection & reversing basics | ❌ Paid (audit free)      |
 
 ---
 
@@ -81,11 +78,11 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 | Order | Course Name                                         | Platform | Purpose                                | Certificate              |
 | ----- | --------------------------------------------------- | -------- | -------------------------------------- | ------------------------ |
-| 22    | CompTIA Security+ 701                               | Coursera | Industry-recognized security cert      | ✅ Free via Financial Aid |
-| 23    | ISC2 Systems Security Certified Practitioner (SSCP) | Coursera | Security operations & design           | ✅ Free via Financial Aid |
-| 24    | CyberOps Associate                                  | Cisco    | Cisco cert with job relevance          | ✅ Free (With Exam Prep)  |
-| 25    | Become an Ethical Hacker                            | LinkedIn | Professional branding & overview       | ❌ Paid (Free Trial)      |
-| 26    | Practical Help Desk                                 | TCM Sec  | Ticketing, asset handling, career prep | ✅ Free (Audit)           |
+| 23    | CompTIA Security+ 701                               | Coursera | Industry-recognized security cert      | ✅ Free via Financial Aid |
+| 24    | ISC2 Systems Security Certified Practitioner (SSCP) | Coursera | Security operations & design           | ✅ Free via Financial Aid |
+| 25    | CyberOps Associate                                  | Cisco    | Cisco cert with job relevance          | ✅ Free (With Exam Prep)  |
+| 26    | Become an Ethical Hacker                            | LinkedIn | Professional branding & overview       | ❌ Paid (Free Trial)      |
+| 27    | Practical Help Desk                                 | TCM Sec  | Ticketing, asset handling, career prep | ✅ Free (Audit)           |
 
 ---
 
