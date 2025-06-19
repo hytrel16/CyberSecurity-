@@ -2,17 +2,17 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-### 🎯 **Primary Goal**: Pentester / Ethical Hacker (Job in a Reputed Company)
+🎯 **Primary Goal**: Pentester / Ethical Hacker (Job in a Reputed Company)
 
-### 💼 **Secondary Goal**: Bug Bounty Hunter (Freelance / Side Income)
-
----
-
-## 🧭 **Roadmap Phases (Beginner to Advanced)**
+💼 **Secondary Goal**: Bug Bounty Hunter (Freelance / Side Income)
 
 ---
 
-### ✅ **Phase 1: Core Foundations (1–1.5 months)**
+🧭 **Roadmap Phases (Beginner to Advanced)**
+
+---
+
+✅ **Phase 1: Core Foundations (1–1.5 months)**
 
 > Focus: Build foundational Linux, networking, and programming knowledge.
 
@@ -27,7 +27,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-### ✅ **Phase 2: Ethical Hacking Essentials (1.5–2 months)**
+✅ **Phase 2: Ethical Hacking Essentials (1.5–2 months)**
 
 > Focus: Learn hacking techniques, tools, and ethical practices.
 
@@ -44,7 +44,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-### ✅ **Phase 3: Bug Bounty / Web Pentest Track (2–2.5 months)**
+✅ **Phase 3: Bug Bounty / Web Pentest Track (2–2.5 months)**
 
 > Focus: Web app, API, and code-level testing for bounty hunting.
 
@@ -58,7 +58,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-### ✅ **Phase 4: Digital Forensics & Malware Analysis (Optional – 1.5 months)**
+✅ **Phase 4: Digital Forensics & Malware Analysis (Optional – 1.5 months)**
 
 > Focus: For DFIR roles or deep bug bounty/root-cause work.
 
@@ -70,7 +70,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-### ✅ **Phase 5: Job & Certification Preparation (2 months)**
+✅ **Phase 5: Job & Certification Preparation (2 months)**
 
 > Focus: Resume-level certifications and job-oriented soft skills.
 
@@ -84,7 +84,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-## 🏁 **Suggested Additions (Company-Recognized)**
+🏁 **Suggested Additions (Company-Recognized)**
 
 > Valuable **free or low-cost** certifications employers respect:
 
@@ -98,7 +98,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-## 🧑‍💻 **Real-World Project Ideas (for Resume + Bug Bounty)**
+🧑‍💻 **Real-World Project Ideas (for Resume + Bug Bounty)**
 
 | Type            | Project Example                                 | Skills Used                         |
 | --------------- | ----------------------------------------------- | ----------------------------------- |
@@ -110,7 +110,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-## 📅 **Time Allocation Plan (Estimated)**
+📅 **Time Allocation Plan (Estimated)**
 
 | Phase                     | Time                     |
 | ------------------------- | ------------------------ |
@@ -123,7 +123,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
-## 🔗Course Links:
+🔗Course Links:
 1. Linux Unhatched: https://www.netacad.com/courses/linux-unhatched?courseLang=en-US
 2. Linux Essentials: https://www.netacad.com/courses/linux-essentials?courseLang=en-US
 3. JavaScript Essentials 1: https://www.netacad.com/courses/javascript-essentials-1?courseLang=en-US
@@ -136,4 +136,5 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 10. Complete Ethical Hacking Masterclass: Go from Zero to Hero (Udemy): https://www.udemy.com/course/top-course/?kw=Complete+Ethical+Hacking+Masterclass%3A+Go+from+Zero+to+Hero&src=sac
 11. Real Ethical Hacking in 46 Hours: Certificated CSEH+CEH PRO: https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=ST18MT170625G1
 12. Endpoint Security: https://www.netacad.com/courses/endpoint-security?courseLang=en-US
-13. Foundations of Physical Pentesting: https://app.cybrary.it/browse/course/foundations-of-physical-pentesting?queryID=undefined&objectID=71727
+13. Python for Cybersecurity Specialization: https://www.coursera.org/specializations/pythonforcybersecurity
+14. Foundations of Physical Pentesting: https://app.cybrary.it/browse/course/foundations-of-physical-pentesting?queryID=undefined&objectID=71727
