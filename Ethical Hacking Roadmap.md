@@ -9,7 +9,7 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 ---
 
 🧭 **Roadmap Phases (Beginner to Advanced)**
-## **Phase 1: Core Foundations (1–1.5 months)**
+## <small>**Phase 1: Core Foundations (1–1.5 months)**</small>
 
 ---
 
