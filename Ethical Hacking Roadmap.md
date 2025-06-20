@@ -34,10 +34,8 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 | Order | Course Name                                                 | Platform   | Purpose                                 | Certificate                |
 | ----- | ----------------------------------------------------------- | ---------- | --------------------------------------- | -------------------------- |
 | 7     | Ethical Hacking Essentials (EHE)                            | Coursera   | Basics of hacking, vulnerabilities &    | ✅ Free via Financial Aid  |
-| 8     | Network Defense Essetials (NDE)                             | Coursera   | Defense techniques, detection, response | ✅ Free via Financial Aid  |                
-| 9     | Ethical Hacker – Skills for All                             | Cisco      | Cisco’s hands-on ethical hacking        | ✅ Free                    |
-| 10    | Complete Ethical Hacking Masterclass: Go from Zero to Hero  | Udemy      | Comprehensive tools, practice           | ❌ Paid (Often discounted) |                             
-| 11    | Real Ethical Hacking in 46 Hours: Certificated CSEH+CEH PRO | Udemy      | CEH-style topics + hands-on labs        | ❌ Paid                    |
+| 8     | Network Defense Essetials (NDE)                             | Coursera   | Defense techniques, detection, response | ✅ Free via Financial Aid  |        | 9     | Ethical Hacker – Skills for All                             | Cisco      | Cisco’s hands-on ethical hacking        | ✅ Free                    |
+| 10    | Complete Ethical Hacking Masterclass: Go from Zero to Hero  | Udemy      | Comprehensive tools, practice           | ❌ Paid (Often discounted) |        | 11    | Real Ethical Hacking in 46 Hours: Certificated CSEH+CEH PRO | Udemy      | CEH-style topics + hands-on labs        | ❌ Paid                    |
 | 12    | Endpoint Security                                           | Cisco      | Device-level hardening & protections    | ✅ Free                    |
 | 13    | Python for Cybersecurity Specialization                     | Coursera   | Offensive scripting in Python           | ✅ Free via Financial Aid  |
 | 14    | Foundations of Physical Pentesting                          | Cisco      | Social engineering & on-site threats    | ✅ Free                    |
@@ -161,3 +159,13 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 12. Endpoint Security: https://www.netacad.com/courses/endpoint-security?courseLang=en-US
 13. Python for Cybersecurity Specialization: https://www.coursera.org/specializations/pythonforcybersecurity
 14. Foundations of Physical Pentesting: https://app.cybrary.it/browse/course/foundations-of-physical-pentesting?queryID=undefined&objectID=71727
+15. Secure Coding Practices Specialization: https://coursera.org/specializations/secure-coding-practices
+16. API Penetration Testing: https://www.apisecuniversity.com/courses/api-penetration-testing
+17. JavaScript Essentials 2: https://www.netacad.com/courses/javascript-essentials-2?courseLang=en-US
+19. IBM Ethical Hacking Open Source Tools: https://coursera.org/professional-certificates/ibm-ethical-hacking-with-open-source-tools
+20. Digital Forensics Essentials (DFE): https://www.coursera.org/learn/digital-forensics-essentials-dfe
+21. Cybercrime: https://coursera.org/learn/cybercrime
+22. Intro to Malware Analysis and RE: https://www.cybrary.it/course/malware-analysis
+23. CompTIA Security+ 701: https://coursera.org/learn/comptia-security-701
+24. ISC2 Systems Security Certified Practitioner (SSCP): https://coursera.org/professional-certificates/sscp-training
+25. CyberOps Associate: 
