@@ -94,6 +94,19 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
+🛠️ Essential Tools (Add Focus Time)
+Make sure you practice and document using these tools hands-on:
+
+| Category                 | Tools to Master                                |
+| ------------------------ | ---------------------------------------------- |
+| **Recon**                | Nmap, Amass, Sublist3r, Shodan, Google Dorks   |
+| **Web Exploitation**     | Burp Suite, OWASP ZAP, sqlmap, ffuf, dirsearch |
+| **Network**              | Wireshark, tcpdump, Ettercap, ARP spoofing     |
+| **Exploitation**         | Metasploit, msfvenom, ExploitDB, Netcat        |
+| **Privilege Escalation** | LinPEAS, WinPEAS, GTFOBins, PowerUp.ps1        |
+| **Scripting**            | Python (scapy, requests), Bash, JS, PowerShell |
+| **Reporting**            | Dradis, CherryTree, Markdown, MS Word          |
+
 🏁 **Suggested Additions (Company-Recognized)**
 
 > Valuable **free or low-cost** certifications employers respect:
