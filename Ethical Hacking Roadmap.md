@@ -84,6 +84,16 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 
 ---
 
+📊 Overall Percentage Split for the Entire Roadmap
+
+| Type                       | Ideal %    | Explanation                                                                 |
+| -------------------------- | ---------- | --------------------------------------------------------------------------- |
+| ✅ **Theory / Conceptual**  | **25–30%** | Core cybersecurity knowledge, protocols, standards, compliance              |
+| 🔧 **Hands-on Practice**   | **45–50%** | Labs, tools (Burp Suite, Nmap, Metasploit), platforms like TryHackMe/HTB    |
+| 🌍 **Real-World Projects** | **20–25%** | Bug bounty submissions, lab reporting, OSINT challenges, automation scripts |
+
+---
+
 🏁 **Suggested Additions (Company-Recognized)**
 
 > Valuable **free or low-cost** certifications employers respect:
