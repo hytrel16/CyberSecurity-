@@ -95,7 +95,8 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 ---
 
 🛠️ **Essential Tools (Add Focus Time)**
-Make sure you practice and document using these tools hands-on:
+
+> Make sure you practice and document using these tools hands-on:
 
 | Category                 | Tools to Master                                |
 | ------------------------ | ---------------------------------------------- |
