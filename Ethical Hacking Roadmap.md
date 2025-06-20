@@ -95,18 +95,18 @@ Great! Here's an **enhanced and comprehensive roadmap** based on the 30+ courses
 ---
 
 🛠️ **Essential Tools (Add Focus Time)**                                                                              📌 **Tools & Platforms to Prioritize (By Area)**                      
- > Make sure you practice and document using these tools hands-on:                                 |
-                                                                                                   |                   | Area           | Tools / Platforms To Use                      |
-| Category                 | Tools to Master                                |                      |                   | -------------- | --------------------------------------------- |
-| ------------------------ | ---------------------------------------------- |                      |                   | Hands-on Labs  | TryHackMe, Hack The Box, PortSwigger Labs     |              
-| **Recon**                | Nmap, Amass, Sublist3r, Shodan, Google Dorks   |                      |                   | Tools Practice | Nmap, Burp Suite, Wireshark, Metasploit, etc  |             
-| **Web Exploitation**     | Burp Suite, OWASP ZAP, sqlmap, ffuf, dirsearch |                      |                   | Report Writing | Dradis, Markdown, GitHub, Word (PDF export)   |
-| **Network**              | Wireshark, tcpdump, Ettercap, ARP spoofing     |                      |                   | CTFs           | PicoCTF, THM Red Team, HTB Challenges         |
-| **Exploitation**         | Metasploit, msfvenom, ExploitDB, Netcat        |                      |                   | Portfolio      | GitHub, GitLab, LinkedIn (share projects)     |
-| **Privilege Escalation** | LinPEAS, WinPEAS, GTFOBins, PowerUp.ps1        |                      |                   | Certs          | PNPT, eJPT, THM Jr Pen Tester (if affordable) |
-| **Scripting**            | Python (scapy, requests), Bash, JS, PowerShell |                      |
-| **Reporting**            | Dradis, CherryTree, Markdown, MS Word          |                      |                                                                              
-                                                                                                   |       
+ > Make sure you practice and document using these tools hands-on:                                 ---
+                                                                                                   ---                | Area           | Tools / Platforms To Use                      |
+| Category                 | Tools to Master                                |                                         | -------------- | --------------------------------------------- |
+| ------------------------ | ---------------------------------------------- |                                         | Hands-on Labs  | TryHackMe, Hack The Box, PortSwigger Labs     |              
+| **Recon**                | Nmap, Amass, Sublist3r, Shodan, Google Dorks   |                                         | Tools Practice | Nmap, Burp Suite, Wireshark, Metasploit, etc  |             
+| **Web Exploitation**     | Burp Suite, OWASP ZAP, sqlmap, ffuf, dirsearch |                                         | Report Writing | Dradis, Markdown, GitHub, Word (PDF export)   |
+| **Network**              | Wireshark, tcpdump, Ettercap, ARP spoofing     |                                         | CTFs           | PicoCTF, THM Red Team, HTB Challenges         |
+| **Exploitation**         | Metasploit, msfvenom, ExploitDB, Netcat        |                                         | Portfolio      | GitHub, GitLab, LinkedIn (share projects)     |
+| **Privilege Escalation** | LinPEAS, WinPEAS, GTFOBins, PowerUp.ps1        |                                         | Certs          | PNPT, eJPT, THM Jr Pen Tester (if affordable) |
+| **Scripting**            | Python (scapy, requests), Bash, JS, PowerShell |                      
+| **Reporting**            | Dradis, CherryTree, Markdown, MS Word          |                                                                                                    
+                                                                                                          
                                                                                                        
                                                                                                        
                                                                                                              
